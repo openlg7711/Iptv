@@ -137,7 +137,7 @@ http://192.168.2.1:8686/rtp/239.10.0.72:1025
 http://192.168.2.1:8686/rtp/239.11.0.125:1025
 #EXTINF:-1 tvg-id="" tvg-name="爱体育高清" tvg-logo="   group-title="央视",爱体育高清
 http://192.168.2.1:8686/rtp/239.10.0.218:1025
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视1" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png"  group-title="卫视",湖南卫视高清
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视1" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png"  group-title="卫视",湖南卫视高清1
 http://44010677.xyz:8686/rtp/239.10.0.115:1025
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视1" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视高清
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视1" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视高清1
 http://44010677.xyz:8686/rtp/239.10.0.179:1025
