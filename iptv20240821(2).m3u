@@ -71,6 +71,10 @@ http://192.168.2.1:8686/rtp/239.10.0.244:1025
 http://192.168.2.1:8686/rtp/239.11.0.101:1025
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视" ,CCTV4中文国际美洲高清
 http://192.168.2.1:8686/rtp/239.11.0.102:1025
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4K.png"  group-title="央视",CCTV4k
+http://192.168.2.173:35442/home/cctv4k/cctv4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8K.png"  group-title="央视",CCTV8k
+http://192.168.2.173:35442/home/cctv8k36m/cctv8k_36m.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png"  group-title="卫视",湖南卫视高清
 http://192.168.2.1:8686/rtp/239.10.0.115:1025
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视高清
