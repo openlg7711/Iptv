@@ -35,7 +35,7 @@ http://192.168.2.1:8686/rtp/239.11.0.142:1025
 http://192.168.2.1:8686/rtp/239.11.0.140:1025
 #EXTINF:-1 tvg-id="" tvg-name=" 南国都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou6.png" group-title="广东",南国都市4K
 http://192.168.2.1:8686/rtp/239.11.0.170:1025
-#EXTINF:-1 tvg-id="" tvg-name=" 粤TV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou6.png" group-title="广东",南国都市4K
+#EXTINF:-1 tvg-id="" tvg-name=" 粤TV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou6.png" group-title="广东",粤TV
 http://192.168.2.1:8686/rtp/239.10.0.21:1025
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1高清
 http://192.168.2.1:8686/rtp/239.10.0.114:1025
